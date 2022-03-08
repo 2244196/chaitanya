@@ -5,4 +5,6 @@ print(c)
 d=2
 print(type(d))
 print(d)
+print(type(a))
 print('sucess')
+print('chaitanya')
