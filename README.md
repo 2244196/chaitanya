@@ -5,3 +5,4 @@ print(c)
 d=2
 print(type(d))
 print(d)
+print('sucess')
